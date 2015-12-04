@@ -1,0 +1,11 @@
+.classpath
+/target/
+*/target/**
+/bin/
+/src/test/resources/images/*
+
+*.png
+
+src/test/java/com/tribune/automation/bdt/features/AgileNCRApp.feature
+
+src/test/java/com/tribune/automation/bdt/features/AgileNCRApp.feature
